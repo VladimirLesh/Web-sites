@@ -1,0 +1,48 @@
+    .img-1 {
+        background-image: url(../img/Catalog-1/11.2021/куртка\ бардовая.jpeg);
+    }
+    
+    .img-1:hover {
+        transform: scale(1.1);
+        transition: 1s;
+    }
+    
+    .img-2 {
+        background-image: url(../img/Catalog-1/11.2021/куртка\ классика\ с\ шарфом.jpeg);
+    }
+    
+    .img-3 {
+        background-image: url(../img/Catalog-1/11.2021/куртка\ красная.jpeg);
+    }
+    
+    .img-4 {
+        background-image: url(../img/Catalog-1/11.2021/куртка\ красная\ 2.jpeg);
+    }
+    
+    .img-5 {
+        background-image: url(../img/Catalog-1/11.2021/куртка\ темная.jpeg);
+    }
+    
+    .img-6 {
+        background-image: url(../img/Catalog-1/11.2021/куртка\ темная\ 2.jpeg);
+    }
+    
+    .img-7 {
+        background-image: url(../img/Catalog-1/11.2021/куртка\ темная\ на\ замке.jpeg);
+    }
+    
+    .img-8 {
+        background-image: url(../img/Catalog-1/11.2021/куртка\ темно-зеленая.jpeg);
+    }
+    
+    .img-9 {
+        background-image: url(../img/Catalog-1/11.2021/куртка\ темно-зеленая\ теплая.jpeg);
+    }
+    
+    .img-10 {
+        background-image: url(../img/Catalog-1/11.2021/куртка\ темно-синя.\ мех.jpeg);
+    }
+    
+    .img-11 {
+        background-image: url(../img/Catalog-1/11.2021/куртка\ черная.jpeg);
+    }
